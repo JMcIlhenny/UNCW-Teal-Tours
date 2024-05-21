@@ -1,0 +1,8 @@
+Username: jay@text.com
+Password: password
+
+// User and Pass for account with a profile picture
+Username: jaden@test.com
+Password: maggie
+
+If it says Log-In invalid, wait five seconds and then retry with the same user and password

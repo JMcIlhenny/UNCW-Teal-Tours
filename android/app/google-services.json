@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555322530589",
+    "project_id": "teal-tours-15923",
+    "storage_bucket": "teal-tours-15923.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555322530589:android:a3ef5e29063db9aba7dff4",
+        "android_client_info": {
+          "package_name": "com.example.uncw_learn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQgSVjDv1iTyeGwI0LyrjUaZZNi-u-He8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
